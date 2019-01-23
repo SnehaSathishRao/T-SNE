@@ -1,0 +1,2 @@
+# T-SNE
+We always end up with huge amounts of data to  process and analyse but with limited computational power and time.Most of the machine learning models does not require lot of features to understand the underlying pattern.Hence it is always recommended to reduce feature that your data possess T-Sne is one such good technique that is used for dimensionality reduction or otherwise feature extraction.I have used Amazon data which contains summary of reviews that  on featurized using NLP techniques gives higher dimensional.
